@@ -34,7 +34,7 @@ npm start
 This will start the development server and open the application in your default web browser.
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-ap).
 
 ## Available Scripts
 
