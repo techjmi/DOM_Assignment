@@ -1,3 +1,37 @@
+# Router Assignment
+
+This project is a demonstration of using React Router version 6 for routing in a React application.
+
+## Installation
+
+To run this project locally, make sure you have Node.js installed on your machine. Then, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Navigate to the project directory in your terminal.
+3. Run the following command to install the dependencies:
+
+   ```bash
+   npm install
+Dependencies
+This project uses the following dependencies:
+
+React - JavaScript library for building user interfaces.
+React DOM - Provides DOM-specific methods that can be used at the top level of a web app to enable React components to be rendered into the DOM.
+React Router DOM - DOM bindings for React Router, which is a popular routing library for React applications.
+@mui/material - React UI framework for building user interfaces.
+Dev Dependencies:
+
+@emotion/react - Library for writing CSS styles with JavaScript.
+@emotion/styled - Utility for styling React components with Emotion.
+@testing-library/jest-dom - Custom Jest matchers to test DOM elements.
+@testing-library/react - Testing utilities for React.
+@testing-library/user-event - Fire events as if a real user is interacting with your app.
+Usage
+Once the dependencies are installed, you can run the project using the following command:
+
+bash
+npm start
+This will start the development server and open the application in your default web browser.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
